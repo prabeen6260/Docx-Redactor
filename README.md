@@ -1,4 +1,4 @@
-# McCarren Redactor
+# Docx Redactor
 
 A Microsoft Word Add-in that redacts sensitive information from documents, adds a confidentiality header, and enables Track Changes.
 
